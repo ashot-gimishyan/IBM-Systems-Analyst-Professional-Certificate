@@ -28,7 +28,7 @@ Applied **Agile**, **Scrum**, and **Kanban** principles to ensure successful del
 ---
 
 ### 4. Data Visualization and Dashboards with Excel and Cognos — ✅ *Completed*  
-Learned to transform raw data into meaningful business insights using **Microsoft Excel** and **IBM Cognos Analytics**.  
+Learned to transform raw data into meaningful business insights using Microsoft Excel and IBM Cognos Analytics.  
 Developed skills in data storytelling, dashboard design, and KPI tracking.  
 Created visual reports and dashboards that support decision-making through effective data visualization practices.
 
